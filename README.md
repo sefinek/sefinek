@@ -6,7 +6,7 @@
 
 <img width="50%" align="right" src="images/computer-cat.png" height="400px" alt="Wakatime stats">
 
-## Welcome on my profile, I'm Sefinek!
+### Welcome on my profile, I'm Sefinek!
 
 ### 🌍 〢 Projects
 🏠 » [sefinek.net](https://sefinek.net) • My official website  
