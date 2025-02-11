@@ -4,11 +4,11 @@
 [//]: # (> https://raw.githubusercontent.com/sefinek24 -> https://raw.githubusercontent.com/sefinek)
 [//]: # (<img src="images/neko.png" alt="Anime Girl Programming Wallpaper">)
 
-<img width="50%" align="right" src="images/computer-cat.png" height="400px" alt="Wakatime stats">
+<img width="50%" align="right" src="images/computer-cat.png" height="370px" alt="Wakatime stats">
 
 ### Welcome on my profile, I'm Sefinek!
 
-### 🌍 〢 Projects
+#### 🌍 〢 Projects
 🏠 » [sefinek.net](https://sefinek.net) • My official website  
 ✨ » [api.sefinek.net](https://api.sefinek.net) • Free API; filters, random animals, etc.  
 🎮 » [stella.sefinek.net](https://sefinek.net/genshin-stella-mod) • The best & safe mod for Genshin Impact  
