@@ -23,7 +23,7 @@
 <br>
 
 <h2>😺 〢 I like...</h2>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs" height="50px" alt="skillicons.dev" align="center"><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs" height="50px" alt="skillicons.dev" align="center"><br>
 <img src="https://skillicons.dev/icons?i=idea,raspberrypi,cloudflare,mongo,linux,github,nginx,arduino" height="50px" alt="skillicons.dev">
 
 <h2>😾 〢 I don't like...</h2>
