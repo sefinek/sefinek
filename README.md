@@ -25,7 +25,8 @@
 <br>
 
 <h2>😺 〢 I like...</h2>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs,webstorm,sublime,git,raspberrypi,cloudflare,mongo,linux,github,nginx,arduino,postman,redis" height="50px" alt="skillicons.dev" align="center"><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs" height="50px" alt="skillicons.dev" align="center"><br>
+<img src="https://skillicons.dev/icons?i=webstorm,sublime,git,raspberrypi,cloudflare,mongo,linux,github,nginx,arduino,postman,redis" height="50px" alt="skillicons.dev" align="center"><br>
 
 <h2>😾 〢 I don't like...</h2>
 <img src="https://skillicons.dev/icons?i=visualstudio,php,mysql,python,cpp,windows,wordpress,jquery,bootstrap,apple,discordjs,pug" height="50px" alt="skillicons.dev">
