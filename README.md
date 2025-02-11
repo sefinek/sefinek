@@ -22,18 +22,12 @@
 <br>
 <br>
 
-<div align="left">
-    <h2>😺 〢 I like...</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs" height="50px" alt="skillicons.dev" align="center"><br><br>
-    <img src="https://skillicons.dev/icons?i=idea,raspberrypi,cloudflare,mongo,linux,github,nginx" height="50px" alt="skillicons.dev">
-</div>
+<h2>😺 〢 I like...</h2>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs" height="50px" alt="skillicons.dev" align="center"><br><br>
+<img src="https://skillicons.dev/icons?i=idea,raspberrypi,cloudflare,mongo,linux,github,nginx,arduino" height="50px" alt="skillicons.dev">
 
-<div align="right">
-    <h2>😾 〢 I don't like...</h2>
-    <div align="center">
-        <img src="https://skillicons.dev/icons?i=visualstudio,php,mysql,python,cpp,wordpress,jquery" height="50px" alt="skillicons.dev">
-    </div>
-</div>
+<h2>😾 〢 I don't like...</h2>
+<img src="https://skillicons.dev/icons?i=visualstudio,php,mysql,python,cpp,wordpress,jquery" height="50px" alt="skillicons.dev">
 
 
 ### 😻 〢 Meow
