@@ -30,12 +30,12 @@
 <img src="https://skillicons.dev/icons?i=visualstudio,php,mysql,python,cpp,wordpress,jquery" height="50px" alt="skillicons.dev">
 
 
-### 😻 〢 Meow
+## 😻 〢 Meow
 <div align="center">
     <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
         <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Profile views. Statistics have been collected since 12.02.2024 [DD.MM.YYYY].">    
     </a>
-    <img src="images/IMG_20230811_192301.jpg" height="300" alt=";P">
+    <img src="images/IMG_20230811_192301.jpg" height="300px" alt=";P">
 </div>
 
 <div align="center">
