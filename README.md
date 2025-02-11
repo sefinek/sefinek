@@ -4,7 +4,7 @@
 [//]: # (> https://raw.githubusercontent.com/sefinek24 -> https://raw.githubusercontent.com/sefinek)
 [//]: # (<img src="images/neko.png" alt="Anime Girl Programming Wallpaper">)
 
-<img align="right" src="images/computer-cat.png" height="300px" alt="Computer cat">
+<img align="right" src="images/computer-cat.png" height="380px" alt="Computer cat">
 
 ### Welcome on my profile, I'm Sefinek!
 
@@ -25,8 +25,8 @@
 <br>
 
 <h2>😺 〢 I like...</h2>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs" height="50px" alt="skillicons.dev" align="center"><br>
-<img src="https://skillicons.dev/icons?i=webstorm,sublime,git,raspberrypi,cloudflare,mongo,linux,github,nginx,arduino,postman,redis" height="50px" alt="skillicons.dev" align="center"><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs" height="50px" alt="skillicons.dev"><br>
+<img src="https://skillicons.dev/icons?i=webstorm,sublime,git,raspberrypi,cloudflare,mongo,linux,github,nginx,arduino,postman,redis" height="50px" alt="skillicons.dev">
 
 <h2>😾 〢 I don't like...</h2>
 <img src="https://skillicons.dev/icons?i=visualstudio,php,mysql,python,cpp,windows,wordpress,jquery,bootstrap,apple,discordjs,pug" height="50px" alt="skillicons.dev">
