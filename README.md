@@ -12,7 +12,6 @@
 🏠 » [sefinek.net](https://sefinek.net) • My official website  
 ✨ » [api.sefinek.net](https://api.sefinek.net) • Free API; filters, random animals, etc.  
 🎮 » [stella.sefinek.net](https://sefinek.net/genshin-stella-mod) • The best & safe mod for Genshin Impact  
-😻 » [nekosia.cat](https://nekosia.cat) • API with random anime images & booru
 
 <br>
 
