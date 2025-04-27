@@ -1,12 +1,12 @@
 <a href="https://www.deviantart.com/meworin/art/--1074002891" target="_blank"><img src="images/by_meworin_dhrflxn.png" alt="Anime Girl Wallpaper"></a>
 
-<img align="right" src="images/computer-cat.png" height="400px" alt="Computer cat">
+<img align="right" src="images/computer-cat.png" height="380px" alt="Computer cat">
 
-### Welcome on my profile, I'm Sefinek!
+## Welcome on my profile, I'm Sefinek!
 
 <br>
 
-### 🌍 〢 Projects
+## 🌍 〢 Projects
 🏠 » [sefinek.net](https://sefinek.net) • My official website  
 ✨ » [api.sefinek.net](https://api.sefinek.net) • Free API for developers  
 📃 » [blocklist.sefinek.net](https://blocklist.sefinek.net) • The best blocklist collection  
