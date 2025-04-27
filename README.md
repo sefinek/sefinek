@@ -18,12 +18,10 @@
     <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Profile views. Statistics have been collected since 12.02.2024 [DD.MM.YYYY].">    
 </a>
 
-<br><br>
+<br>
 
 ## 😻 〢 Meow?
-
 <img align="left" src="images/IMG_20230811_192301.jpg" height="306px" alt=";P">
-
 <br>
 
 ### 😺 〢 I like...
