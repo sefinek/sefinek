@@ -2,9 +2,9 @@
 
 <img align="right" src="images/computer-cat.png" height="380px" alt="Computer cat">
 
-### Welcome on my profile, I'm Sefinek!
-
 <br>
+
+### Welcome on my profile, I'm Sefinek!
 
 ### 🌍 〢 Projects
 🏠 » [sefinek.net](https://sefinek.net) • My official website  
