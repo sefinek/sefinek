@@ -2,7 +2,7 @@
 
 <img align="right" src="images/computer-cat.png" height="390px" alt="Computer cat">
 
-### Welcome on my profile, I'm Sefinek!
+### Welcome on my profile, I'm Sefinek
 
 ### 🌍 〢 Projects
 🏠 » [sefinek.net](https://sefinek.net) • My official website  
@@ -14,8 +14,8 @@
 <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
     <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Statistics have been collected since 12.02.2024 [DD.MM.YYYY].">    
 </a>
-
 <br><br>
+
 
 ## 😻 〢 Meow?
 <img align="left" src="images/IMG_20230811_192301.jpg" height="306px" alt=";P">
@@ -26,6 +26,7 @@
 
 ### 😾 〢 I don't like...
 <img src="https://skillicons.dev/icons?i=visualstudio,php,mysql,python,cpp,wordpress,jquery,apple" height="40px" alt="skillicons.dev">
+
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/sefinek/sefinek/snake/github-snake-dark.svg" alt="Snake">
