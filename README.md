@@ -14,7 +14,7 @@
 <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
     <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Statistics have been collected since 12.02.2024 [DD.MM.YYYY].">    
 </a>
-<br><br><br><br>
+<br><br><br><br><br>
 
 
 <img align="left" src="images/IMG_20230811_192301.png" height="306px" alt=";P">
