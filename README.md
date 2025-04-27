@@ -1,6 +1,6 @@
 <a href="https://www.deviantart.com/meworin/art/--1074002891" target="_blank"><img src="images/by_meworin_dhrflxn.png" alt="Anime Girl Wallpaper"></a>
 
-<img align="right" src="images/computer-cat.png" height="380px" alt="Computer cat">
+<img align="right" src="images/computer-cat.png" height="390px" alt="Computer cat">
 
 <br>
 
@@ -22,7 +22,7 @@
 
 ## 😻 〢 Meow?
 
-<img align="right" src="images/IMG_20230811_192301.jpg" height="300px" alt=";P">
+<img align="right" src="images/IMG_20230811_192301.jpg" height="320px" alt=";P">
 
 ### 😺 〢 I like...
 <div align="left">
