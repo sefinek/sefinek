@@ -1,1 +1,1 @@
-npm install npm-check-updates sort-package-json eslint -g
+npm install -g npm-check-updates sort-package-json eslint
