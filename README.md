@@ -22,7 +22,7 @@
 
 ## 😻 〢 Meow?
 
-<img align="right" src="images/IMG_20230811_192301.jpg" height="320px" alt=";P">
+<img align="right" src="images/IMG_20230811_192301.jpg" height="310px" alt=";P">
 
 ### 😺 〢 I like...
 <div align="left">
