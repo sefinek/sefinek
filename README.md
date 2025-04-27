@@ -5,10 +5,10 @@
 ### Welcome on my profile, I'm Sefinek!
 
 ### 🌍 〢 Projects
-🏠 » [sefinek.net](https://sefinek.net) • My official website  
-✨ » [api.sefinek.net](https://api.sefinek.net) • Free API for developers  
-📃 » [blocklist.sefinek.net](https://blocklist.sefinek.net) • The best blocklist collection  
-🎮 » [stella.sefinek.net](https://sefinek.net/genshin-stella-mod) • Safe mod for Genshin Impact
+🏠 • [sefinek.net](https://sefinek.net) » My official website  
+✨ • [api.sefinek.net](https://api.sefinek.net) » Free API for developers  
+📃 • [blocklist.sefinek.net](https://blocklist.sefinek.net) » The best blocklist collection  
+🎮 • [stella.sefinek.net](https://sefinek.net/genshin-stella-mod) » Safe mod for Genshin Impact
 
 ### 📊 〢 Profile views
 <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
