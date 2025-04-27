@@ -26,7 +26,7 @@
 
 ### 😺 〢 I like...
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs,webstorm,sublime,git" height="40px" alt="skillicons.dev" align="center"><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs,webstorm,sublime,git" height="40px" alt="skillicons.dev" align="center"><br><br>
     <img src="https://skillicons.dev/icons?i=raspberrypi,cloudflare,mongo,linux,github,nginx,arduino,postman,redis" height="40px" alt="skillicons.dev">
 </div>
 
