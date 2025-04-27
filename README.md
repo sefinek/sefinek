@@ -32,7 +32,7 @@
 
 ### 😾 〢 I don't like...
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=visualstudio,php,mysql,python,cpp,wordpress,jquery" height="40px" alt="skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,php,mysql,python,cpp,wordpress,jquery,apple" height="40px" alt="skillicons.dev">
 </div>
 
 <div align="center">
