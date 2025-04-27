@@ -25,13 +25,11 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs" height="50px" alt="skillicons.dev" align="center"><br><br>
     <img src="https://skillicons.dev/icons?i=webstorm,sublime,git,raspberrypi,cloudflare,mongo,linux,github,nginx,arduino,postman,redis" height="50px" alt="skillicons.dev">
 </div>
-<hr>
 
 ### 😾 〢 I don't like...
 <div align="center">
     <img src="https://skillicons.dev/icons?i=visualstudio,php,mysql,python,cpp,wordpress,jquery" height="50px" alt="skillicons.dev">
 </div>
-<hr>
 
 ## 😻 〢 Meow?
 <div align="center">
