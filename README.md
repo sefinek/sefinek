@@ -4,13 +4,15 @@
 
 ### Welcome on my profile, I'm Sefinek!
 
+<br>
+
 ### 🌍 〢 Projects
 🏠 » [sefinek.net](https://sefinek.net) • My official website  
 ✨ » [api.sefinek.net](https://api.sefinek.net) • Free API for developers  
 📃 » [blocklist.sefinek.net](https://blocklist.sefinek.net) • The best blocklist collection  
 🎮 » [stella.sefinek.net](https://sefinek.net/genshin-stella-mod) • Safe mod for Genshin Impact
 
-<br><br>
+<br>
 
 <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
     <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Profile views. Statistics have been collected since 12.02.2024 [DD.MM.YYYY].">    
