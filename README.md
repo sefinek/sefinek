@@ -26,8 +26,8 @@
 
 ### 😺 〢 I like...
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs" height="38px" alt="skillicons.dev" align="center"><br><br>
-    <img src="https://skillicons.dev/icons?i=webstorm,sublime,git,raspberrypi,cloudflare,mongo,linux,github,nginx,arduino,postman,redis" height="38px" alt="skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs,webstorm,sublime,git" height="38px" alt="skillicons.dev" align="center"><br><br>
+    <img src="https://skillicons.dev/icons?i=raspberrypi,cloudflare,mongo,linux,github,nginx,arduino,postman,redis" height="38px" alt="skillicons.dev">
 </div>
 
 ### 😾 〢 I don't like...
