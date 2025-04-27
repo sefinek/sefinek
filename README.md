@@ -4,9 +4,9 @@
 
 ### 🌍 〢 Projects
 🏠 » [sefinek.net](https://sefinek.net) • My official website  
-✨ » [api.sefinek.net](https://api.sefinek.net) • Free API for developers
-✨ » [blocklist.sefinek.net](https://blocklist.sefinek.net) • The best blocklist collection
-🎮 » [stella.sefinek.net](https://sefinek.net/genshin-stella-mod) • Safe mod for Genshin Impact  
+✨ » [api.sefinek.net](https://api.sefinek.net) • Free API for developers  
+✨ » [blocklist.sefinek.net](https://blocklist.sefinek.net) • The best blocklist collection  
+🎮 » [stella.sefinek.net](https://sefinek.net/genshin-stella-mod) • Safe mod for Genshin Impact
 
 <br>
 
