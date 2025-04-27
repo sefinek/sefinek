@@ -17,7 +17,6 @@
 <br><br>
 
 
-## 😻 〢 Meow?
 <img align="left" src="images/IMG_20230811_192301.png" height="306px" alt=";P">
 
 ### 😺 〢 I like...
