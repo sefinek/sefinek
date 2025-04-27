@@ -1,17 +1,12 @@
-[//]: # (> [!IMPORTANT])
-[//]: # (> I recently updated my GitHub username from `sefinek24` to `sefinek`. Please make sure to update any associated links &#40;:   )
-[//]: # (> https://github.com/sefinek24 -> https://github.com/sefinek  )
-[//]: # (> https://raw.githubusercontent.com/sefinek24 -> https://raw.githubusercontent.com/sefinek)
-[//]: # (<img src="images/neko.png" alt="Anime Girl Programming Wallpaper">)
-
 <img align="right" src="images/computer-cat.png" height="400px" alt="Computer cat">
 
 ### Welcome on my profile, I'm Sefinek!
 
 ### 🌍 〢 Projects
 🏠 » [sefinek.net](https://sefinek.net) • My official website  
-✨ » [api.sefinek.net](https://api.sefinek.net) • Free API; filters, random animals, etc.  
-🎮 » [stella.sefinek.net](https://sefinek.net/genshin-stella-mod) • The best & safe mod for Genshin Impact  
+✨ » [api.sefinek.net](https://api.sefinek.net) • Free API for developers
+✨ » [blocklist.sefinek.net](https://blocklist.sefinek.net) • The best blocklist collection
+🎮 » [stella.sefinek.net](https://sefinek.net/genshin-stella-mod) • Safe mod for Genshin Impact  
 
 <br>
 
