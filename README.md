@@ -1,6 +1,6 @@
 <a href="https://www.deviantart.com/meworin/art/--1074002891" target="_blank"><img src="images/by_meworin_dhrflxn.png" alt="Anime Girl Wallpaper"></a>
 
-<img align="right" src="images/computer-cat.png" height="300px" alt="Computer cat">
+<img align="right" src="images/computer-cat.png" height="400px" alt="Computer cat">
 
 ### 🌍 〢 Projects
 🏠 » [sefinek.net](https://sefinek.net) • My official website  
@@ -8,7 +8,7 @@
 📃 » [blocklist.sefinek.net](https://blocklist.sefinek.net) • The best blocklist collection  
 🎮 » [stella.sefinek.net](https://sefinek.net/genshin-stella-mod) • Safe mod for Genshin Impact
 
-<br>
+<br><br>
 
 <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
     <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Profile views. Statistics have been collected since 12.02.2024 [DD.MM.YYYY].">    
