@@ -2,8 +2,6 @@
 
 <img align="right" src="images/computer-cat.png" height="390px" alt="Computer cat">
 
-<br>
-
 ### Welcome on my profile, I'm Sefinek!
 
 ### 🌍 〢 Projects
@@ -14,7 +12,7 @@
 
 ### 📊 〢 Profile views
 <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
-    <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Profile views. Statistics have been collected since 12.02.2024 [DD.MM.YYYY].">    
+    <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Statistics have been collected since 12.02.2024 [DD.MM.YYYY].">    
 </a>
 
 <br><br>
