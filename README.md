@@ -1,4 +1,4 @@
-<img src="images/fly/3.png" alt="i can fly~">
+<img src="images/fly/4.png" alt="i can fly~">
 
 <img align="right" src="images/computer-cat.png" height="390px" alt="Computer cat">
 
