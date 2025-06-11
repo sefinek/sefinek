@@ -8,7 +8,7 @@
 🏠 » [sefinek.net](https://sefinek.net) • My official website  
 ✨ » [api.sefinek.net](https://api.sefinek.net) • Free API for developers  
 📃 » [blocklist.sefinek.net](https://blocklist.sefinek.net) • The top blocklist collection  
-🎮 » [sniffcat.com](https://sniffcat.com) • A database of malicious IP addresses (AbuseIPDB alternative)
+🎮 » [sniffcat.com](https://sniffcat.com) • A database of malicious IP addresses
 
 ### 📊 〢 Profile views
 <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
