@@ -1,4 +1,3 @@
-[//]: # (<a href="https://www.deviantart.com/meworin/art/--1074002891" target="_blank"><img src="images/by_meworin_dhrflxn.png" alt="Anime Girl Wallpaper"></a>)
 <img src="images/fly/3.png" alt="i can fly~">
 
 <img align="right" src="images/computer-cat.png" height="390px" alt="Computer cat">
