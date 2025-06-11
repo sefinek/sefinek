@@ -1,7 +1,6 @@
 {
   "name": "sefinek",
   "version": "1.0.0",
-  "description": "",
   "keywords": [],
   "homepage": "https://github.com/sefinek/sefinek#readme",
   "bugs": {
@@ -11,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/sefinek/sefinek.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "author": "",
   "type": "commonjs",
   "main": "",
@@ -20,7 +19,7 @@
     "up": "ncu -u && npm install && npm update && npm audit fix"
   },
   "devDependencies": {
-    "@eslint/js": "^9.25.1",
-    "globals": "^16.0.0"
+    "@eslint/js": "^9.28.0",
+    "globals": "^16.2.0"
   }
 }
