@@ -28,5 +28,10 @@
 
 
 <div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="github-snake-white.svg" />
+        <img alt="GitHub Snake" src="github-snake-white.svg" />
+    </picture>
     <img src="https://raw.githubusercontent.com/sefinek/sefinek/snake/github-snake-dark.svg" alt="Snake">
 </div>
