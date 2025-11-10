@@ -21,10 +21,10 @@
 
 ### 😺 〢 I like...
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs,webstorm,sublime,git" height="40px" alt="skillicons.dev"><br><br>
-<img src="https://skillicons.dev/icons?i=raspberrypi,cloudflare,mongo,linux,github,nginx,arduino,postman,redis" height="40px" alt="skillicons.dev">
+<img src="https://skillicons.dev/icons?i=linux,raspberrypi,arduino,nginx,cloudflare,mongo,redis,github,postman" height="40px" alt="skillicons.dev">
 
 ### 😾 〢 I don't like...
-<img src="https://skillicons.dev/icons?i=visualstudio,php,mysql,python,cpp,wordpress,jquery,apple" height="40px" alt="skillicons.dev">
+<img src="https://skillicons.dev/icons?i=visualstudio,php,python,cpp,mysql,wordpress,jquery,apple" height="40px" alt="skillicons.dev">
 
 
 <div align="center">
