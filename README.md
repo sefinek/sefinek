@@ -1,4 +1,4 @@
-<img src="images/fly/4.png" alt="i can fly~">
+<img src="https://screenshots.sefinek.net/29.12.2025/brave_koHmZu95JvzI.png" alt="🍺">
 
 <img align="right" src="images/computer-cat.png" height="390px" alt="Computer cat">
 
