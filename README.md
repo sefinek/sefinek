@@ -12,7 +12,7 @@
 
 ### 📊 〢 Profile views
 <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
-    <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Statistics have been collected since 12.02.2024 [DD.MM.YYYY].">    
+    <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="MoeCounter" title="Statistics have been collected since 12.02.2024 [DD.MM.YYYY].">    
 </a>
 <br><br><br><br><br>
 
@@ -29,8 +29,8 @@
 
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-white.svg" />
-        <img alt="GitHub Snake" src="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-dark.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-white.svg>
+        <img alt="GitHub Snake" src="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-dark.svg">
     </picture>
 </div>
