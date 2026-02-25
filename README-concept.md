@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/neko.png" alt="neko" />
+<img src="images/neko.png" alt="neko">
 
 # Hello, I'm Sefinek
 
@@ -47,7 +47,7 @@
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-white.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-dark.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-dark.svg">
 </picture>
 
 </div>
