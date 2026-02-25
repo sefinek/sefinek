@@ -6,7 +6,7 @@
 
 *A free mind, not part of the system.*
 *Guided by logic and curiosity, not propaganda.*
-*I believe in truth, peace, and people who think for themselves.*
+*I believe in truth, peace, and people who think independently.*
 
 ---
 
@@ -24,10 +24,10 @@
 
 <a href="https://sefinek.net/?referrer=github_readme" title="sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=Website&up_message=Online&url=https%3A%2F%2Fsefinek.net&style=flat-square" alt="sefinek.net status"></a>
 <a href="https://api.sefinek.net/?referrer=github_readme" title="api.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=API&up_message=Online&url=https%3A%2F%2Fapi.sefinek.net&style=flat-square" alt="api.sefinek.net status"></a>
-<a href="https://cdn.sefinek.net/?referrer=github_readme" title="cdn.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=CDN&up_message=Online&url=https%3A%2F%2Fcdn.sefinek.net&style=flat-square" alt="cdn.sefinek.net status"></a>
 <a href="https://blocklist.sefinek.net/?referrer=github_readme" title="blocklist.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=Blocklist&up_message=Online&url=https%3A%2F%2Fblocklist.sefinek.net&style=flat-square" alt="blocklist.sefinek.net status"></a>
 <a href="https://sniffcat.com/?referrer=github_readme" title="sniffcat.com status"><img src="https://img.shields.io/website?down_message=Offline&label=SniffCat&up_message=Online&url=https%3A%2F%2Fsniffcat.com&style=flat-square" alt="sniffcat.com status"></a>
 
+> All of the above services run on a private server hosted at my home — no cloud, no corporations, no compromises.
 
 <br clear="both">
 <br><br>
