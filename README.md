@@ -36,11 +36,11 @@
 <img align="left" src="images/IMG_20230811_192301.png" height="306px" alt="Cat resting on a tree branch">
 
 ### 😺 〢 I like...
-<img src="https://skillicons.dev/icons?i=html,js,nodejs,express,cs,webstorm,sublime,git" height="40px" alt="skills"><br>
-<img src="https://skillicons.dev/icons?i=linux,raspberrypi,arduino,nginx,cloudflare,mongo,redis,github,postman" height="40px" alt="skills">
+<img src="https://skillicons.dev/icons?i=html,js,nodejs,express,cs,webstorm,sublime,git" height="40px" alt="Preferred technologies"><br>
+<img src="https://skillicons.dev/icons?i=linux,raspberrypi,arduino,nginx,cloudflare,mongo,redis,github,postman" height="40px" alt="Preferred tools and platforms">
 
 ### 😾 〢 I don't like...
-<img src="https://skillicons.dev/icons?i=visualstudio,php,python,cpp,mysql,wordpress,jquery,apple" height="40px" alt="not-preferred">
+<img src="https://skillicons.dev/icons?i=visualstudio,php,python,cpp,mysql,wordpress,jquery,apple" height="40px" alt="Technologies I avoid">
 
 <br clear="both">
 
