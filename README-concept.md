@@ -27,8 +27,7 @@
 <img align="left" src="images/IMG_20230811_192301.png" height="306px" alt=";P">
 
 ### 😺 〢 I like...
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs,webstorm,sublime,git" height="40px" alt="skills"><br>
-<img src="https://skillicons.dev/icons?i=linux,raspberrypi,arduino,nginx,cloudflare,mongo,redis,github,postman" height="40px" alt="skills">
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs,webstorm,sublime,git,linux,raspberrypi,arduino,nginx,cloudflare,mongo,redis,github,postman" height="40px" alt="skills">
 
 ### 😾 〢 I don't like...
 <img src="https://skillicons.dev/icons?i=visualstudio,php,python,cpp,mysql,wordpress,jquery,apple" height="40px" alt="not-preferred">
