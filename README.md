@@ -27,7 +27,8 @@
 <a href="https://blocklist.sefinek.net/?referrer=github_readme" title="blocklist.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=Blocklist&up_message=Online&url=https%3A%2F%2Fblocklist.sefinek.net&style=flat-square" alt="blocklist.sefinek.net status"></a>
 <a href="https://sniffcat.com/?referrer=github_readme" title="sniffcat.com status"><img src="https://img.shields.io/website?down_message=Offline&label=SniffCat&up_message=Online&url=https%3A%2F%2Fsniffcat.com&style=flat-square" alt="sniffcat.com status"></a>
 
-> All of the above services run on a private server hosted at my home — no cloud, no corporations, no compromises.
+> All of the above services run on a private server hosted at my home.
+> No cloud, no corporations, no compromises.
 
 <br clear="both">
 <br><br>
