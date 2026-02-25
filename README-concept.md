@@ -44,8 +44,6 @@
     <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="MoeCounter" title="Statistics have been collected since 12.02.2024 [DD.MM.YYYY].">
 </a>
 
-<br><br>
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-white.svg" />
