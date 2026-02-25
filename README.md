@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="images/neko.png" alt="neko">
+<img src="images/neko.png" alt="Neko">
 
 # Hello, I'm Sefinek
 
 *A free mind, not part of the system.*
-*Guided by logic and curiosity, not propaganda.*
+*Guided by logic and curiosity, not propaganda.*  
 *I believe in truth, peace, and people who think for themselves.*
 
 ---
 
 </div>
 
-<img align="right" src="images/computer-cat.png" height="360px" alt="Computer cat">
+<img align="right" src="images/computer-cat.png" height="360px" alt="Cat sitting inside a computer case">
 
 ### 🌍 〢 Projects
 |     | Project                                                | Description                          |
@@ -24,7 +24,7 @@
 <br clear="both">
 <br><br>
 
-<img align="left" src="images/IMG_20230811_192301.png" height="306px" alt=";P">
+<img align="left" src="images/IMG_20230811_192301.png" height="306px" alt="Cat resting on a tree branch">
 
 ### 😺 〢 I like...
 <img src="https://skillicons.dev/icons?i=html,js,nodejs,express,cs,webstorm,sublime,git" height="40px" alt="skills"><br>
@@ -41,13 +41,13 @@
 
 ### 📊 〢 Profile views
 <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
-    <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="MoeCounter" title="Statistics have been collected since 12.02.2024 [DD.MM.YYYY].">
+    <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Profile view counter" title="Statistics have been collected since 12.02.2024 [DD.MM.YYYY].">
 </a>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-white.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-dark.svg">
+    <img alt="Snake animation of GitHub contribution graph" src="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-dark.svg">
 </picture>
 
 </div>
