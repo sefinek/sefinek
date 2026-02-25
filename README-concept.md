@@ -2,7 +2,7 @@
 
 <img src="images/neko.png" alt="neko" />
 
-# Hey, I'm Sefinek
+# Hello, I'm Sefinek
 
 *A free mind, not part of the system.*
 *Guided by logic and curiosity, not propaganda.*
@@ -21,8 +21,8 @@
 | 💻  | [api.sefinek.net](https://api.sefinek.net)             | Free API for developers              |
 | 📑  | [blocklist.sefinek.net](https://blocklist.sefinek.net) | The top blocklist collection         |
 | 🕵️ | [sniffcat.com](https://sniffcat.com)                   | A database of malicious IP addresses |
-
 <br clear="both">
+<br><br>
 
 <img align="left" src="images/IMG_20230811_192301.png" height="306px" alt=";P">
 
