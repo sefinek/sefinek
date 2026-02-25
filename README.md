@@ -6,7 +6,7 @@
 
 *A free mind, not part of the system.*
 *Guided by logic and curiosity, not propaganda.*
-*I believe in truth, peace, and people who think independently.*
+*I believe in truth and people who think independently.*
 
 ---
 
