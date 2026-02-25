@@ -22,6 +22,8 @@
 | 📑 | [blocklist.sefinek.net](https://blocklist.sefinek.net) | The top blocklist collection |
 | 🕵️ | [sniffcat.com](https://sniffcat.com) | A database of malicious IP addresses |
 
+<br clear="both">
+
 <img align="left" src="images/IMG_20230811_192301.png" height="306px" alt=";P">
 
 ### 😺 〢 I like...
@@ -31,7 +33,7 @@
 ### 😾 〢 I don't like...
 <img src="https://skillicons.dev/icons?i=visualstudio,php,python,cpp,mysql,wordpress,jquery,apple" height="40px" alt="not-preferred">
 
-<br><br>
+<br clear="both">
 
 ---
 
