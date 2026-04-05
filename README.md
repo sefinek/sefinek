@@ -45,6 +45,7 @@
 <img src="https://skillicons.dev/icons?i=visualstudio,php,python,cpp,mysql,wordpress,jquery,apple" height="40px" alt="Technologies I avoid">
 
 <br clear="both">
+<br><br>
 
 
 <img align="right" src="images/cat-linux.png" height="300px" alt="Cat labeled head, cat, and tail illustrating Linux commands">
