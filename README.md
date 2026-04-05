@@ -8,7 +8,8 @@ I specialize in system and server administration.
 I am also interested in programming and web development, particularly in practical applications and automation.
 I focus on open-source solutions and self-hosting. I am also passionate about amateur radio and mesh networking - my favorite band is 40 m (7.0-7.2 MHz).
 I am open to collaborating on interesting projects - feel free to get in touch.
-<br>
+<br><br>
+
 
 <img align="right" src="images/computer-cat.png" height="360px" alt="Cat sitting inside a computer case">
 
