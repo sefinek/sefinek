@@ -45,10 +45,13 @@
 
 <img align="right" src="images/cat-linux.png" height="300px" alt="Cat labeled head, cat, and tail illustrating Linux commands">
 
+<br><br>
+
 ### 📊 〢 Profile views
 <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
     <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Profile view counter">
 </a>
+<br>
 
 > Statistics have been collected since 12.02.2024 [DD.MM.YYYY].
 > Source: https://api.sefinek.net/docs/v2/moecounter
