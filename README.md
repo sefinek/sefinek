@@ -5,8 +5,8 @@
 </div>
 <br>
 I specialize in system and server administration.
-I am also interested in programming and web development, with a strong focus on practical applications and automation. My work mainly involves open-source solutions and self-hosting.
-I am also an amateur radio enthusiast and mesh networking fan - my favorite band is 40 m (7.0-7.2 MHz).
+I'm also interested in programming and web development, with a strong focus on practical applications and automation. My work mainly involves open-source solutions and self-hosting.
+I'm also an amateur radio enthusiast and mesh networking fan - my favorite band is 40 m (7.0-7.2 MHz).
 Open to interesting collaborations - feel free to get in touch.
 <br><br>
 
@@ -27,7 +27,7 @@ Open to interesting collaborations - feel free to get in touch.
 <a href="https://sniffcat.com/?referrer=github_readme" title="sniffcat.com status"><img src="https://img.shields.io/website?down_message=Offline&label=SniffCat&up_message=Online&url=https%3A%2F%2Fsniffcat.com&style=flat-square" alt="sniffcat.com status"></a>
 
 > All of the above services run on a private server hosted at my home.
-> No cloud, no corporations, no compromises.
+> No cloud, no corporations, no compromises.    
 
 <br><br><br>
 
