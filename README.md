@@ -5,8 +5,6 @@
   <em>A free mind, not part of the system.</em>
   <em>Guided by logic and curiosity, not propaganda.</em>
   <em>I believe in truth and people who think independently.</em>
-
-  <hr>
 </div>
 
 
