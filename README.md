@@ -4,10 +4,10 @@
     <i>A free mind, not part of the system. Guided by logic and curiosity, not propaganda. I believe in truth and people who think independently.</i>
 </div>
 <br>
-I work in IT, with a strong focus on system and server administration.
+I specialize in system and server administration.
 I am also interested in programming and web development, mainly in the context of practical applications and automation.
-I focus on open source solutions and self-hosting. Additionally, I am passionate about amateur radio and mesh networks - my favorite band is 40m (7.0-7.2 MHz).
-I am open to collaborating on interesting projects - feel free to contact me.
+I focus on open source solutions and self-hosting. I am also passionate about amateur radio and mesh networks - my favorite band is 40 m (7.0-7.2 MHz).
+I am open to collaboration on interesting projects - feel free to get in touch.
 <br>
 
 <img align="right" src="images/computer-cat.png" height="360px" alt="Cat sitting inside a computer case">
