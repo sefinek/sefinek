@@ -51,6 +51,7 @@
 </a>
 
 > Statistics have been collected since 12.02.2024 [DD.MM.YYYY].
+> Source: https://api.sefinek.net/docs/v2/moecounter
 
 
 
