@@ -14,7 +14,7 @@ Open to interesting collaborations - feel free to get in touch.
 <img align="right" src="images/computer-cat.png" height="360px" alt="Cat sitting inside a computer case">
 
 ### 🌍 〢 My projects
-|     | Project                                                | Description                          |
+|     | URL                                                    | Description                          |
 |-----|--------------------------------------------------------|--------------------------------------|
 | 🏠  | [sefinek.net](https://sefinek.net)                     | Personal website                     |
 | 💻  | [api.sefinek.net](https://api.sefinek.net)             | Free API for developers              |
