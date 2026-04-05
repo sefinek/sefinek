@@ -31,8 +31,7 @@
 > All of the above services run on a private server hosted at my home.
 > No cloud, no corporations, no compromises.
 
-<br clear="both">
-<br><br>
+<br><br><br>
 
 <img align="left" src="images/IMG_20230811_192301.png" height="306px" alt="Cat resting on a tree branch">
 
@@ -44,8 +43,7 @@
 ### 😾 〢 I don't like...
 <img src="https://skillicons.dev/icons?i=visualstudio,php,python,cpp,mysql,wordpress,jquery,apple" height="40px" alt="Technologies I avoid">
 
-<br clear="both">
-<br><br>
+<br><br><br>
 
 
 <img align="right" src="images/cat-linux.png" height="300px" alt="Cat labeled head, cat, and tail illustrating Linux commands">
@@ -55,7 +53,6 @@
     <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Profile view counter" title="Statistics have been collected since 12.02.2024 [DD.MM.YYYY].">
 </a>
 
-<br clear="both">
 
 
 <div align="center">
