@@ -12,6 +12,7 @@
 
 </div>
 
+
 <img align="right" src="images/computer-cat.png" height="360px" alt="Cat sitting inside a computer case">
 
 ### 🌍 〢 Projects
@@ -35,6 +36,7 @@
 
 <img align="left" src="images/IMG_20230811_192301.png" height="306px" alt="Cat resting on a tree branch">
 
+
 ### 😺 〢 I like...
 <img src="https://skillicons.dev/icons?i=html,js,nodejs,express,cs,webstorm,sublime,git" height="40px" alt="Preferred technologies"><br>
 <img src="https://skillicons.dev/icons?i=linux,raspberrypi,arduino,nginx,cloudflare,mongo,redis,github,postman" height="40px" alt="Preferred tools and platforms">
@@ -44,19 +46,21 @@
 
 <br clear="both">
 
----
 
-<div align="center">
+<img align="right" src="images/cat-linux.png" height="300px" alt="Cat labeled head, cat, and tail illustrating Linux commands">
 
 ### 📊 〢 Profile views
 <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
     <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Profile view counter" title="Statistics have been collected since 12.02.2024 [DD.MM.YYYY].">
 </a>
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-white.svg" />
-    <img alt="Snake animation of GitHub contribution graph" src="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-dark.svg">
-</picture>
+<br clear="both">
 
+
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-white.svg" />
+        <img alt="Snake animation of GitHub contribution graph" src="https://raw.githubusercontent.com/sefinek/sefinek/snake/snake-dark.svg">
+    </picture>
 </div>
