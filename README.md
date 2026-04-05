@@ -1,14 +1,14 @@
+<img src="images/neko.png" alt="Neko">
 <div align="center">
-  <img src="images/neko.png" alt="Neko">
-
-  <h1>Hello, I'm Sefinek</h1>
-  <em>A free mind, not part of the system.</em>
-  <em>Guided by logic and curiosity, not propaganda.</em>
-  <em>I believe in truth and people who think independently.</em>
+    <h1>Hello, I'm Sefinek</h1>
+    <i>A free mind, guided by logic, curiosity, and independent thinking.</i>
 </div>
 
+I work in IT, with a strong focus on system and server administration.
+I am also interested in programming and web development, mainly in the context of practical applications and automation.
+I focus on open source solutions and self-hosting. Additionally, I am passionate about amateur radio and mesh networks - my favorite band is 40m (7.0-7.2 MHz).
+I am open to collaborating on interesting projects - feel free to contact me.
 <br>
-
 
 <img align="right" src="images/computer-cat.png" height="360px" alt="Cat sitting inside a computer case">
 
