@@ -1,13 +1,13 @@
 <img src="images/neko.png" alt="Neko">
 <div align="center">
     <h1>Hello, I'm Sefinek 👋</h1>
-    <i>A free mind, not part of the system. Guided by logic and curiosity, not propaganda. I believe in truth and people who think independently.</i>
+    <i>Independent thinker, guided by logic and curiosity.</i>
 </div>
 <br>
 I specialize in system and server administration.
-I am also interested in programming and web development, particularly in practical applications and automation.
-I focus on open-source solutions and self-hosting. I am also passionate about amateur radio and mesh networking - my favorite band is 40 m (7.0-7.2 MHz).
-I am open to collaborating on interesting projects - feel free to get in touch.
+I am also interested in programming and web development, with a strong focus on practical applications and automation. My work mainly involves open-source solutions and self-hosting.
+I am also an amateur radio enthusiast and mesh networking fan - my favorite band is 40 m (7.0-7.2 MHz).
+Open to interesting collaborations - feel free to get in touch.
 <br><br>
 
 
