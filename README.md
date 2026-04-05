@@ -3,7 +3,7 @@
     <h1>Hello, I'm Sefinek</h1>
     <i>A free mind, not part of the system. Guided by logic and curiosity, not propaganda. I believe in truth and people who think independently.</i>
 </div>
-
+<br>
 I work in IT, with a strong focus on system and server administration.
 I am also interested in programming and web development, mainly in the context of practical applications and automation.
 I focus on open source solutions and self-hosting. Additionally, I am passionate about amateur radio and mesh networks - my favorite band is 40m (7.0-7.2 MHz).
