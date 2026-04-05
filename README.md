@@ -5,7 +5,7 @@
 </div>
 <br>
 I specialize in system and server administration.
-I'm also interested in programming and web development, with a strong focus on practical applications and automation. My work mainly involves open-source solutions and self-hosting.
+I am also interested in programming and web development, with a strong focus on practical applications and automation. My work mainly involves open-source solutions and self-hosting.
 Amateur radio enthusiast (favorite band: 40 m, 7.0-7.2 MHz) and mesh networking fan.
 Open to interesting collaborations - feel free to get in touch.
 <br><br>
