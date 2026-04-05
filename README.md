@@ -16,9 +16,9 @@ I am open to collaborating on interesting projects - feel free to get in touch.
 ### 🌍 〢 My projects
 |     | Project                                                | Description                          |
 |-----|--------------------------------------------------------|--------------------------------------|
-| 🏠  | [sefinek.net](https://sefinek.net)                     | My official website                  |
+| 🏠  | [sefinek.net](https://sefinek.net)                     | Personal website                     |
 | 💻  | [api.sefinek.net](https://api.sefinek.net)             | Free API for developers              |
-| 📑  | [blocklist.sefinek.net](https://blocklist.sefinek.net) | The top blocklist collection         |
+| 📑  | [blocklist.sefinek.net](https://blocklist.sefinek.net) | Curated blocklist collection         |
 | 🕵️ | [sniffcat.com](https://sniffcat.com)                   | A database of malicious IP addresses |
 
 <a href="https://sefinek.net/?referrer=github_readme" title="sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=Website&up_message=Online&url=https%3A%2F%2Fsefinek.net&style=flat-square" alt="sefinek.net status"></a>
@@ -35,12 +35,12 @@ I am open to collaborating on interesting projects - feel free to get in touch.
 <img align="left" src="images/IMG_20230811_192301.png" height="310px" alt="Cat resting on a tree branch">
 <br>
 
-### 😺 〢 I like...
-<img src="https://skillicons.dev/icons?i=html,js,nodejs,express,cs,webstorm,sublime,git" height="40px" alt="Preferred technologies"><br>
-<img src="https://skillicons.dev/icons?i=linux,raspberrypi,arduino,nginx,cloudflare,mongo,redis,github,postman" height="40px" alt="Preferred tools and platforms">
+### 😺 〢 What I like
+<img src="https://skillicons.dev/icons?i=html,js,nodejs,express,cs,webstorm,sublime,git" height="40px" alt="Technologies I use"><br>
+<img src="https://skillicons.dev/icons?i=linux,raspberrypi,arduino,nginx,cloudflare,mongo,redis,github,postman" height="40px" alt="Tools and platforms I use">
 
-### 😾 〢 I don't like...
-<img src="https://skillicons.dev/icons?i=visualstudio,php,python,cpp,mysql,wordpress,jquery,apple" height="40px" alt="Technologies I avoid">
+### 😾 〢 Not my focus
+<img src="https://skillicons.dev/icons?i=visualstudio,php,python,cpp,mysql,wordpress,jquery,apple" height="40px" alt="Less preferred technologies">
 
 <br><br><br>
 
