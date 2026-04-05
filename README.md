@@ -7,6 +7,7 @@
   <em>I believe in truth and people who think independently.</em>
 </div>
 
+<br>
 
 <img align="right" src="images/computer-cat.png" height="360px" alt="Cat sitting inside a computer case">
 
