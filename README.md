@@ -29,7 +29,7 @@ Open to interesting collaborations - feel free to get in touch.
 > All of the above services run on a private server hosted at my home.
 > No cloud, no corporations, no compromises.    
 
-<br><br><br>
+<br><br>
 
 
 <img align="left" src="images/IMG_20230811_192301.png" height="310px" alt="Cat resting on a tree branch">
@@ -42,7 +42,7 @@ Open to interesting collaborations - feel free to get in touch.
 ### 😾 〢 Not my focus
 <img src="https://skillicons.dev/icons?i=visualstudio,php,python,cpp,mysql,wordpress,jquery,apple" height="40px" alt="Less preferred technologies">
 
-<br><br><br>
+<br><br>
 
 
 <img align="right" src="images/cat-linux.png" height="310px" alt="Cat labeled head, cat, and tail illustrating Linux commands">
