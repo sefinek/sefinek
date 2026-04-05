@@ -9,6 +9,7 @@
 
 <br>
 
+
 <img align="right" src="images/computer-cat.png" height="360px" alt="Cat sitting inside a computer case">
 
 ### 🌍 〢 My projects
@@ -29,8 +30,8 @@
 
 <br><br><br>
 
-<img align="left" src="images/IMG_20230811_192301.png" height="306px" alt="Cat resting on a tree branch">
 
+<img align="left" src="images/IMG_20230811_192301.png" height="306px" alt="Cat resting on a tree branch">
 
 ### 😺 〢 I like...
 <img src="https://skillicons.dev/icons?i=html,js,nodejs,express,cs,webstorm,sublime,git" height="40px" alt="Preferred technologies"><br>
