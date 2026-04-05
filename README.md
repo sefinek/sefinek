@@ -32,7 +32,7 @@ I am open to collaborating on interesting projects - feel free to get in touch.
 <br><br><br>
 
 
-<img align="left" src="images/IMG_20230811_192301.png" height="306px" alt="Cat resting on a tree branch">
+<img align="left" src="images/IMG_20230811_192301.png" height="310px" alt="Cat resting on a tree branch">
 <br>
 
 ### 😺 〢 I like...
@@ -45,7 +45,7 @@ I am open to collaborating on interesting projects - feel free to get in touch.
 <br><br><br>
 
 
-<img align="right" src="images/cat-linux.png" height="300px" alt="Cat labeled head, cat, and tail illustrating Linux commands">
+<img align="right" src="images/cat-linux.png" height="310px" alt="Cat labeled head, cat, and tail illustrating Linux commands">
 <br>
 
 ### 📊 〢 Profile views
