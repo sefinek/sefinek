@@ -1,6 +1,6 @@
 <img src="images/neko.png" alt="Neko">
 <div align="center">
-    <h1>Hello, I'm Sefinek</h1>
+    <h1>Hello, I'm Sefinek 👋</h1>
     <i>A free mind, not part of the system. Guided by logic and curiosity, not propaganda. I believe in truth and people who think independently.</i>
 </div>
 <br>
