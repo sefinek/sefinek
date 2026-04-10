@@ -57,7 +57,7 @@ Open to interesting collaborations - feel free to get in touch.
 </a>
 <br>
 
-> Statistics have been collected since 12.02.2024. [[Source](https://api.sefinek.net/docs/v2/moecounter)]
+> Collected since 12.02.2024. [[Source](https://api.sefinek.net/docs/v2/moecounter)]
 
 
 
