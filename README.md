@@ -49,7 +49,7 @@ Open to interesting collaborations - feel free to get in touch.
 <br>
 
 ### 🔧 〢 Miscellaneous
-**Time zone:** Europe/Warsaw (GMT+2)
+**Time zone:** Europe/Warsaw (GMT+2)  
 **Preferred date format:** DD.MM.YYYY
 
 ### 📊 〢 Profile views
