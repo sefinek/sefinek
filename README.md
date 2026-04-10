@@ -46,7 +46,6 @@ Open to interesting collaborations - feel free to get in touch.
 
 
 <img align="right" src="images/cat-linux.png" height="280px" alt="Cat labeled head, cat, and tail illustrating Linux commands">
-<br>
 
 ### 🔧 〢 Miscellaneous
 **Time zone:** Europe/Warsaw (GMT+2)  
