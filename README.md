@@ -45,7 +45,7 @@ Open to interesting collaborations - feel free to get in touch.
 <br><br>
 
 
-<img align="right" src="images/cat-linux.png" height="300px" alt="Cat labeled head, cat, and tail illustrating Linux commands">
+<img align="right" src="images/cat-linux.png" height="290px" alt="Cat labeled head, cat, and tail illustrating Linux commands">
 <br>
 
 ### 📊 〢 Profile views
