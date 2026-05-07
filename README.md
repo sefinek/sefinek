@@ -1,4 +1,4 @@
-<img src="images/neko.png" alt="Neko">
+<img src="images/neko2.png" alt="Neko">
 <div align="center">
     <h1>Hello, I'm Sefinek 👋</h1>
     <i>Independent thinker, guided by logic and curiosity.</i>
