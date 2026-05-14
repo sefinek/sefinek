@@ -10,7 +10,6 @@ export default [
 			globals: {
 				...globals.node,
 				...globals.mongo,
-				// ...globals.jest,
 			},
 		},
 		rules: {
