@@ -11,7 +11,7 @@ Open to interesting collaborations - feel free to get in touch.
 <br><br>
 
 
-<img align="right" src="images/computer-cat.png" height="360px" alt="Cat sitting inside a computer case">
+<img align="right" src="images/computer-cat.png" height="350px" alt="Cat sitting inside a computer case">
 
 ### 🌍 〢 My projects
 |    | URL                                                    | Description                          |
