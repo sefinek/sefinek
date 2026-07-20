@@ -18,9 +18,9 @@ Open to interesting collaborations - feel free to get in touch.
 | 🏠 | [sefinek.net](https://sefinek.net)                     | Personal website                     |
 | 💻 | [api.sefinek.net](https://api.sefinek.net)             | Free API for developers              |
 | 📑 | [blocklist.sefinek.net](https://blocklist.sefinek.net) | Curated blocklist collection         |
-| 🕵️ | [sniffcat.com](https://sniffcat.com)                   | A database of malicious IP addresses |
-| 🕵️ | [meshcorepolska.org](https://meshcorepolska.org)       | Polish MeshCore community            |
-| 🕵️ | [malkontenci.pl](https://malkontenci.pl)               | Find out if you're a complainer      |
+| 🛡️ | [sniffcat.com](https://sniffcat.com)                   | A database of malicious IP addresses |
+| 📡 | [meshcorepolska.org](https://meshcorepolska.org)       | Polish MeshCore community            |
+| 😒 | [malkontenci.pl](https://malkontenci.pl)               | Find out if you're a complainer      |
 
 <a href="https://sefinek.net/?referrer=github_readme" title="sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=Website&up_message=Online&url=https%3A%2F%2Fsefinek.net&style=flat-square" alt="sefinek.net status"></a>
 <a href="https://api.sefinek.net/?referrer=github_readme" title="api.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=API&up_message=Online&url=https%3A%2F%2Fapi.sefinek.net&style=flat-square" alt="api.sefinek.net status"></a>
